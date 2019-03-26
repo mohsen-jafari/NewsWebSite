@@ -1,0 +1,196 @@
+body
+{
+	direction: rtl;
+}
+div.main
+{
+	margin: auto 10%;
+	width: 1280Px;
+    height: 2000px;
+	background-color: #0051ff30;
+}
+.menu
+{
+	width: 900Px;
+    height: 180px;
+    margin: 0px;
+    background-color: green;
+    direction: rtl;
+	float:right;
+	clear:left;
+}
+
+div.menu-top
+{
+	
+	width:900Px;
+	height:100px;
+	float:right;
+	padding:2px;
+	/* margin-top:20px; */
+}
+div.menu-Down
+
+{   
+	
+	width:900Px;
+	height:20px;
+	/* margin-top:200px; */
+}
+
+li.inline
+{
+	margin-top:30px;
+	display:inline;
+	padding-left:10px;
+	color:white;
+	width:100%;
+} 
+li.topmenuleft
+{
+	margin-top:30px;
+	display:inline;
+	padding-left:10px;
+	color:white;
+	width:100%;
+}
+a.linkwhite
+{
+	text-decoration:none;
+	color:white;
+}
+a:hover 
+{
+	color:red;
+}
+a.linkhome
+{
+	background-color:orange;
+}
+
+div.column3
+{
+	width: 375Px;
+	float: left;
+	height:auto;
+	margin-right: 5px;
+}
+
+div.list-menu
+{
+	width: 375Px;
+	float:right;
+	height:40px;
+	background-color: black;
+}
+
+ul.listmenu
+{
+	background-color:orange;
+	float:left;
+}
+
+div.listbox
+{
+	float: right;
+    width: 375;
+	height:auto;
+	background-color: #26cfcd;
+	margin-top: 5px;
+}
+
+div.column1
+{
+	width:550Px;
+	height:auto;
+	float:right;
+}
+
+div.boxbig
+{
+	float:right;
+	width: 550Px;
+    height: 280px;
+    border: 1px white;
+    background-color: #dbf292;
+    direction: rtl;
+	margin-top: 10px;
+}
+
+div.boxbig-image
+{
+	float:left;
+	width:  250Px;
+	height: 280px;
+}
+
+img.boxbigImage
+{
+	float:left;
+	width: 200Px;
+	height: 180Px;
+	margin: 10px;
+}
+a.linktextImage
+{
+	float:left;
+	width: 200Px;
+    margin-top: 10px;
+}
+div.boxbig-list
+{
+	float:left;
+	width: 250Px;
+}
+
+div.column2
+{
+	width: 340Px;
+	height: auto;
+	float: right;
+	margin-right: 10px;
+}
+
+div.boxmini
+{
+	float: right;
+	width: 340Px;
+    height: auto;
+    border: 1px white;
+    background-color: red;
+    direction: rtl;
+	margin-top: 10px;
+}
+div.boxmini-Title
+{
+	float: right;
+	width: 340Px;
+	height: 40px;
+    background-color: yellow;
+}
+a.boxminiTitle
+{
+	width: 340Px;
+	color:green;
+	margin-right: 10px;
+}
+div.boxmini-image
+{
+	float: right;
+	width: 340Px;
+	height:200;
+}
+img.boxminiimage
+{
+	float:left;
+	width: 330Px;
+	height: 150Px;
+	margin: 5px;
+}
+a.textImage
+{
+	float:left;
+	width: 300Px;
+	margin-top: 10px;
+    margin-right: 5px;
+}
