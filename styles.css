@@ -6,7 +6,11 @@ div.main
 {
 	margin: auto 10%;
 	width: 1280Px;
+<<<<<<< HEAD
     height: 4222px;
+=======
+    height: 2011px;
+>>>>>>> parent of b1e1963... 3000
 	background-color: #0052ff30;
 }
 .menu
